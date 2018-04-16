@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template-columns: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+ul li {
+    display: block;
+    font-weight: 500;
+    font-size: 1.2em;
+}
